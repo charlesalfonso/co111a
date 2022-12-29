@@ -1,4 +1,5 @@
 # 課程：計算機結構 -- 筆記、習題與報告
+All The code I got online from youtube
 
 欄位 | 內容
 -----|--------
