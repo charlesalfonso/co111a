@@ -1,26 +1,26 @@
-A computer system is a complex system that is made up of many different hardware and software components, which are organized and interconnected in a specific way to <br>
-enable the system to perform a wide range of tasks. The overall organization and interconnection of these components is referred to as the "computer structure" of the <br>
+A computer system is a complex system that is made up of many different hardware and software components, which are organized and interconnected in a specific way to
+enable the system to perform a wide range of tasks. The overall organization and interconnection of these components is referred to as the "computer structure" of the
 system.
 
-At a high level, a computer system typically consists of a central processing unit (CPU), main memory, and one or more input/output (I/O) devices. The CPU is the <br>
-primary computational unit of the system, responsible for executing instructions and performing computational tasks. It is typically composed of several functional <br>
+At a high level, a computer system typically consists of a central processing unit (CPU), main memory, and one or more input/output (I/O) devices. The CPU is the
+primary computational unit of the system, responsible for executing instructions and performing computational tasks. It is typically composed of several functional
 units, such as the control unit, the arithmetic logic unit, and the memory unit, which work together to execute instructions and perform operations on data.
 
-The main memory of a computer system stores data and instructions that are being used or processed by the CPU. It is typically organized as a hierarchy of storage <br>
-units with different sizes and access times, such as registers, cache, and main memory. The registers are the smallest and fastest level of memory, used to store data<br>
-and instructions that are currently being accessed or executed by the CPU. The cache is a medium-sized and faster level of memory that stores frequently accessed data<br>
-and instructions. The main memory is the largest and slowest level of memory, used to store data and instructions that are not currently being used by the CPU but may<br>
+The main memory of a computer system stores data and instructions that are being used or processed by the CPU. It is typically organized as a hierarchy of storage
+units with different sizes and access times, such as registers, cache, and main memory. The registers are the smallest and fastest level of memory, used to store data
+and instructions that are currently being accessed or executed by the CPU. The cache is a medium-sized and faster level of memory that stores frequently accessed data
+and instructions. The main memory is the largest and slowest level of memory, used to store data and instructions that are not currently being used by the CPU but may
 be needed in the future.
 
-The I/O devices of a computer system are used to input data into the system (e.g., through a keyboard or mouse) and output data from the system (e.g., through a<br>
-display screen or printer). These devices are typically connected to the system through a set of interfaces, such as USB ports or Ethernet ports, which use specific<br>
+The I/O devices of a computer system are used to input data into the system (e.g., through a keyboard or mouse) and output data from the system (e.g., through a
+display screen or printer). These devices are typically connected to the system through a set of interfaces, such as USB ports or Ethernet ports, which use specific
 protocols to transmit data between the devices and the computer system.
 
-The various functional units of a computer system are interconnected and communicate with one another through a set of buses, which are used to transmit data and<br>
-control signals between the different components of the system. The CPU communicates with the main memory and I/O devices through these buses, using a set of <br>
-instructions defined by the instruction set architecture (ISA) of the system. The ISA specifies the interface between the hardware and software of the system, and <br>
+The various functional units of a computer system are interconnected and communicate with one another through a set of buses, which are used to transmit data and
+control signals between the different components of the system. The CPU communicates with the main memory and I/O devices through these buses, using a set of
+instructions defined by the instruction set architecture (ISA) of the system. The ISA specifies the interface between the hardware and software of the system, and
 defines the set of instructions that the CPU is able to execute.
 
-In addition to the basic structure described above, modern computer systems often include other functional units and features to support advanced capabilities <br>
-such as parallelism and concurrency, security, and high-speed networking. These features may be implemented using specialized hardware units, such as multi-core<br>
+In addition to the basic structure described above, modern computer systems often include other functional units and features to support advanced capabilities
+such as parallelism and concurrency, security, and high-speed networking. These features may be implemented using specialized hardware units, such as multi-core
 processors or hardware accelerators, or through the use of software techniques such as multi-threading and multi-processing.
